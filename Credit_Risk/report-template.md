@@ -24,10 +24,11 @@ The analysis involved the following steps:
 
 The Logistic Regression model's performance:
 - Accuracy: 99.26%
+-
 - Healthy Loans (0):
 - Precision: 99.80%
 - Recall: 99.43%
-
+-
 - High-Risk Loans (1):
 - Precision: 84.46%
 - Recall: 94.03%
