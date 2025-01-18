@@ -34,8 +34,6 @@ Recall: 94.03%
 
 ## Summary
 
-Summarise the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
-
 The Logistic Regression model demonstrates excellent performance in predicting both healthy and high-risk loans. 
 With an overall accuracy of 99.26%, 
 it shows strong capability in distinguishing between the two loan types.
