@@ -12,11 +12,11 @@ loan would be classified as healthy (0) or high-risk (1).
 
 
 The analysis involved the following steps:
-Data preprocessing and exploration
-Splitting the data into training and testing sets
-Creating and training a Logistic Regression model
-Evaluating the model's performance using confusion matrix and classification report
-Write a Credit Risk Analysis Report
+- Data preprocessing and exploration
+- Splitting the data into training and testing sets
+- Creating and training a Logistic Regression model
+- Evaluating the model's performance using confusion matrix and classification report
+- Write a Credit Risk Analysis Report
 
 
 
