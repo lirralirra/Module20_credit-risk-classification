@@ -39,13 +39,16 @@ Summarise the results of the machine learning models, and include a recommendati
 The Logistic Regression model demonstrates excellent performance in predicting both healthy and high-risk loans. 
 With an overall accuracy of 99.26%, 
 it shows strong capability in distinguishing between the two loan types.
-The model excels at identifying healthy loans, with near-perfect precision and recall. For high-risk loans, 
+The model excels at identifying healthy loans, with near-perfect precision and recall. 
+
+For high-risk loans, 
 while the performance is slightly lower, 
 it still maintains a high level of accuracy, especially in terms of recall.
 Recommendation: This model is highly recommended for use by the company for the following reasons:
 High overall accuracy (99.26%)
 Excellent performance in identifying healthy loans (99.80% precision, 99.43% recall)
-Strong capability in detecting high-risk loans (84.46% precision, 94.03% recall)
+Strong capability in detecting high-risk loans (84.46% precision, 94.03% recall).
+
 The high recall for high-risk loans (94.03%) is particularly valuable, as it minimizes the chance of misclassifying 
 a high-risk loan as healthy
 The model's balanced performance across both loan types makes it a reliable tool for loan risk assessment. 
