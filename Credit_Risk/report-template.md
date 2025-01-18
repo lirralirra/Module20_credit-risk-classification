@@ -1,4 +1,4 @@
-# Module 12 Report Template
+# Module 12 Report
 
 ## Overview of the Analysis
 
@@ -44,7 +44,7 @@ while the performance is slightly lower,
 it still maintains a high level of accuracy, especially in terms of recall.
 Recommendation: This model is highly recommended for use by the company for the following reasons:
 High overall accuracy (99.26%)
-Excellent performance in identifying healthy loans (99.80% precision, 99.43% recall)
+Excellent performance in identifying healthy loans (99.80% precision, 99.43% recall).
 Strong capability in detecting high-risk loans (84.46% precision, 94.03% recall).
 
 The high recall for high-risk loans (94.03%) is particularly valuable, as it minimizes the chance of misclassifying 
